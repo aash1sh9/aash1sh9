@@ -36,7 +36,7 @@
 
 ### Currently Building
 
-> 🏗️ **SyndCate** — *dropping soon*
+> 🏗️ **SyndiCate** — *dropping soon*
 
 ---
 
@@ -81,7 +81,7 @@
 
 | Project | Description |
 |---|---|
-| 🏗️ **SyndCate** | — dropping soon — |
+| 🏗️ **SyndiCate** | — dropping soon — |
 | ··· | more soon |
 
 ---
