@@ -39,6 +39,13 @@
 > 🏗️ **SyndiCate** — *dropping soon*
 
 ---
+### Mood
+
+<div align="center">
+
+![](https://readme-jokes.vercel.app/api?hideBorder&theme=dark)
+
+</div>
 
 ### GitHub Stats
 
