@@ -53,17 +53,7 @@
 
 <img src="https://streak-stats.demolab.com?user=aash1sh9&theme=transparent&hide_border=true&stroke=6e6e6e&ring=6e6e6e&fire=6e6e6e&currStreakNum=6e6e6e&sideNums=6e6e6e&currStreakLabel=6e6e6e&sideLabels=6e6e6e&dates=6e6e6e" height="160" />
 
-</div>
 
----
-
-### Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=aash1sh9&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
