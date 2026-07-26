@@ -7,6 +7,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aash1sh9&style=flat-square&color=grey&label=profile+views)
 ![Followers](https://img.shields.io/github/followers/aash1sh9?style=flat-square&color=grey&label=followers)
+![Status](https://img.shields.io/badge/status-currently%20fragging-6e6e6e?style=flat-square&logo=counterstrike&logoColor=white)
 
 </div>
 
@@ -20,6 +21,31 @@
 - 💡 **Approach** — Experiment > perfection
 - 🎓 **Roles** — Google Gemini Student Ambassador (TeamGemini) · Founder @ BLFL · Ex-GfG Campus Mantri
 - 🏗️ **Currently building** — SyndCate
+- 🎮 **Off-duty** — probably in a ranked FPS lobby losing to bots
+
+---
+
+### 🔥 Consistency Dashboard
+
+<!--STREAK_START-->
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/aash1sh9/aash1sh9/main/progress_bar.svg" /><br/>
+<img src="https://raw.githubusercontent.com/aash1sh9/aash1sh9/main/calendar.svg" />
+
+</div>
+
+<div align="center">
+
+![Active Days](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/aash1sh9/aash1sh9/main/stats.json&query=$.active_days&label=active%20days&color=6e6e6e&style=flat-square)
+![Inactive Days](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/aash1sh9/aash1sh9/main/stats.json&query=$.inactive_days&label=inactive%20days&color=6e6e6e&style=flat-square)
+![Current Streak](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/aash1sh9/aash1sh9/main/stats.json&query=$.current_streak&label=current%20streak&suffix=%20d&color=6e6e6e&style=flat-square)
+![Longest Streak](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/aash1sh9/aash1sh9/main/stats.json&query=$.longest_streak&label=longest%20streak&suffix=%20d&color=6e6e6e&style=flat-square)
+
+</div>
+<!--STREAK_END-->
+
+<sub>Auto-updates daily via GitHub Actions — grey square = active day, dark square = skipped day, faded square = not tracked yet.</sub>
 
 ---
 
@@ -83,24 +109,6 @@ Co-hosted a hackathon with GDG On Campus, ran the Prompt Engineering Battle at V
 
 ---
 
-### Achievements
-
-| Recognition | Details |
-|---|---|
-| 🏆 Hackathon Finalist | OpenAI × Outskill AI Builders Hackathon — WASH AI, top finalist among 1000+ builders |
-| 🥈 Hackathon Submission | Microsoft Agents League Hackathon — Smart Attendance Reasoning Agent |
-| 🎓 Google Gemini Student Ambassador | TeamGemini, East-West Region |
-| 🌱 Founder, BLFL | 440+ member peer-learning community |
-
----
-
-### Certifications
-
-[![Claude 101](https://img.shields.io/badge/Claude_101-Certified-grey?style=flat-square)](https://verify.skilljar.com/c/syocbbu5giui)
-![GitHub Education](https://img.shields.io/badge/GitHub_Education-Member-grey?style=flat-square)
-
----
-
 ### 🎲 Random Dev Joke
 
 > *A new one every time you visit*
@@ -137,16 +145,6 @@ Co-hosted a hackathon with GDG On Campus, ran the Prompt Engineering Battle at V
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=aash1sh9&theme=transparent&hide_border=true&stroke=6e6e6e&ring=6e6e6e&fire=6e6e6e&currStreakNum=6e6e6e&sideNums=6e6e6e&currStreakLabel=6e6e6e&sideLabels=6e6e6e&dates=6e6e6e" height="160" />
-
-</div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aash1sh9&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
 
