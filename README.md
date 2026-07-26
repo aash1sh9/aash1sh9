@@ -5,113 +5,104 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=aash1sh9&style=flat-square&color=grey&label=profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=aash1sh9&style=flat-square&color=grey&label=profile%20views)
 ![Followers](https://img.shields.io/github/followers/aash1sh9?style=flat-square&color=grey&label=followers)
 ![Status](https://img.shields.io/badge/status-currently%20fragging-6e6e6e?style=flat-square&logo=counterstrike&logoColor=white)
 
 </div>
 
----
+<br/>
 
-### About
+<div align="center">
 
-- 🚀 **Builder** — AI · Web · Automation
-- 🧠 **Learning** — AI agents · backend · system design
-- ⚡ **Focus** — Daily commits · strong fundamentals
-- 💡 **Approach** — Experiment > perfection
-- 🎓 **Roles** — Google Gemini Student Ambassador (TeamGemini) · Founder @ BLFL · Ex-GfG Campus Mantri
-- 🏗️ **Currently building** — SyndCate
-- 🎮 **Off-duty** — probably in a ranked FPS lobby losing to bots
+**Builder** · **AI Agent Whisperer** · **Full-time Student, Part-time Chaos**
 
----
+</div>
 
-### 🔥 Consistency Dashboard
+<br/>
 
-<!--STREAK_START-->
+## 👨‍💻 About
+
+<table>
+<tr><td width="30">🚀</td><td><b>Builder</b> — AI · Web · Automation</td></tr>
+<tr><td>🧠</td><td><b>Learning</b> — AI agents · backend · system design</td></tr>
+<tr><td>⚡</td><td><b>Focus</b> — Daily commits · strong fundamentals</td></tr>
+<tr><td>💡</td><td><b>Approach</b> — Experiment > perfection</td></tr>
+<tr><td>🎓</td><td><b>Roles</b> — Google Gemini Student Ambassador (TeamGemini) · Founder @ BLFL · Ex-GfG Campus Mantri</td></tr>
+<tr><td>🏗️</td><td><b>Currently building</b> — SyndCate</td></tr>
+<tr><td>🎮</td><td><b>Off-duty</b> — probably in a ranked FPS lobby, losing to bots</td></tr>
+</table>
+
+<br/>
+
+## 🔥 Consistency Dashboard
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/aash1sh9/aash1sh9/main/progress_bar.svg" /><br/>
 <img src="https://raw.githubusercontent.com/aash1sh9/aash1sh9/main/calendar.svg" />
 
-</div>
-
-<div align="center">
+<br/><br/>
 
 ![Active Days](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/aash1sh9/aash1sh9/main/stats.json&query=$.active_days&label=active%20days&color=6e6e6e&style=flat-square)
 ![Inactive Days](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/aash1sh9/aash1sh9/main/stats.json&query=$.inactive_days&label=inactive%20days&color=6e6e6e&style=flat-square)
 ![Current Streak](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/aash1sh9/aash1sh9/main/stats.json&query=$.current_streak&label=current%20streak&suffix=%20d&color=6e6e6e&style=flat-square)
 ![Longest Streak](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/aash1sh9/aash1sh9/main/stats.json&query=$.longest_streak&label=longest%20streak&suffix=%20d&color=6e6e6e&style=flat-square)
 
+<sub><i>Auto-updates daily via GitHub Actions · grey = active day · dark = skipped day · faded = not tracked yet</i></sub>
+
 </div>
-<!--STREAK_END-->
 
-<sub>Auto-updates daily via GitHub Actions — grey square = active day, dark square = skipped day, faded square = not tracked yet.</sub>
+<br/>
 
----
-
-### Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
-<table>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=python" width="40"/><br/><sub>Python</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=js" width="40"/><br/><sub>JavaScript</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=html" width="40"/><br/><sub>HTML</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=css" width="40"/><br/><sub>CSS</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=java" width="40"/><br/><sub>Java</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/><sub>Node.js</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git" width="40"/><br/><sub>Git</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=github" width="40"/><br/><sub>GitHub</sub></td>
-</tr>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="40"/><br/><sub>SQLite</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=linux" width="40"/><br/><sub>Linux</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=latex" width="40"/><br/><sub>LaTeX</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="40"/><br/><sub>VS Code</sub></td>
-<td align="center"><img src="https://img.shields.io/badge/n8n-grey?style=flat-square" width="60"/><br/><sub>n8n</sub></td>
-<td align="center"><img src="https://img.shields.io/badge/OpenAI-grey?style=flat-square" width="70"/><br/><sub>OpenAI</sub></td>
-<td align="center"><img src="https://img.shields.io/badge/Gemini-grey?style=flat-square" width="70"/><br/><sub>Gemini</sub></td>
-<td align="center"><img src="https://img.shields.io/badge/Flowise-grey?style=flat-square" width="70"/><br/><sub>Flowise</sub></td>
-</tr>
-</table>
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,java,nodejs,git,github" /><br/>
+<img src="https://skillicons.dev/icons?i=sqlite,linux,latex,vscode" />
+<br/>
+<img src="https://img.shields.io/badge/n8n-6e6e6e?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenAI-6e6e6e?style=flat-square" />
+<img src="https://img.shields.io/badge/Gemini-6e6e6e?style=flat-square" />
+<img src="https://img.shields.io/badge/Flowise-6e6e6e?style=flat-square" />
+
 </div>
 
----
+<br/>
 
-### Currently Building
+## 🏗️ Currently Building
 
-> 🏗️ **SyndCate** — *dropping soon*
+> **SyndCate** — *dropping soon*
 
----
+<br/>
 
-### Featured Projects
+## 🚀 Featured Projects
 
 | Project | Description |
-|---|---|
+|:---|:---|
 | 🏗️ **SyndCate** | — dropping soon — |
-| 🤖 **WASH AI** | Multi-agent WhatsApp summarizer (Python + OpenAI API) — Finalist among 1000+ builders, OpenAI × Outskill Hackathon |
-| 📊 **AI Attendance Monitoring System** | Multi-agent attendance tracker (n8n + GPT + SQLite), flags <75% attendance, auto-reminders — submitted to Microsoft Agents League Hackathon |
+| 🤖 **WASH AI** | Multi-agent WhatsApp summarizer (Python + OpenAI API) · Finalist among 1000+ builders, OpenAI × Outskill Hackathon |
+| 📊 **AI Attendance Monitoring System** | Multi-agent attendance tracker (n8n + GPT + SQLite) · flags <75% attendance, auto-reminders · Microsoft Agents League Hackathon submission |
 | 💬 **ashkabot1** | Conversational AI agent (n8n + Gemini) with live weather/news tool-calling + memory |
 | ··· | more soon |
 
----
+<br/>
 
-### Experience & Community
+## 🎓 Experience & Community
 
-**Google Gemini Student Ambassador** — TeamGemini, East-West Region (GSA2026)
+**Google Gemini Student Ambassador** · TeamGemini, East-West Region (GSA2026)
 Running live Gemini demos and content around image gen, prompt engineering, and AI workflows for the campus community.
 
-**Founder — BLFL (By Learners For Learners)**
+**Founder — BLFL** *(By Learners For Learners)*
 Peer-learning community, grown to 440+ members, built around collaborative project work.
 
 **GeeksforGeeks Campus Mantri** *(completed tenure)*
-Co-hosted a hackathon with GDG On Campus, ran the Prompt Engineering Battle at VYOM 2026.
+Co-hosted a hackathon with GDG On Campus · ran the Prompt Engineering Battle at VYOM 2026.
 
----
+<br/>
 
-### 🎲 Random Dev Joke
-
-> *A new one every time you visit*
+## 🎲 Random Dev Joke
 
 <div align="center">
 
@@ -119,49 +110,24 @@ Co-hosted a hackathon with GDG On Campus, ran the Prompt Engineering Battle at V
 
 </div>
 
----
+<br/>
 
-### 🐱 Random Cat
-
-> *Different cat every visit*
+## 🐱 Random Cat
 
 <div align="center">
 
-![random cat](https://cataas.com/cat?width=150&height=150)
+<img src="https://cataas.com/cat?width=150&height=150" />
 
 </div>
 
----
+<br/>
 
-### GitHub Stats
+## 🔗 Connect
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aash1sh9&show_icons=true&theme=transparent&hide_border=true&title_color=6e6e6e&text_color=6e6e6e&icon_color=6e6e6e" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aash1sh9&layout=compact&theme=transparent&hide_border=true&title_color=6e6e6e&text_color=6e6e6e" height="160" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=aash1sh9&theme=transparent&hide_border=true&stroke=6e6e6e&ring=6e6e6e&fire=6e6e6e&currStreakNum=6e6e6e&sideNums=6e6e6e&currStreakLabel=6e6e6e&sideLabels=6e6e6e&dates=6e6e6e" height="160" />
-
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/aash1sh9/aash1sh9/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashish-raj-a27120362/)
 [![Instagram](https://img.shields.io/badge/@aas1sh9.io-black?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/aas1sh9.io)
 [![Email](https://img.shields.io/badge/Gmail-black?style=flat-square&logo=gmail&logoColor=white)](mailto:aashishsingh09a@gmail.com)
+
+</div>
