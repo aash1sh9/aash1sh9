@@ -4,6 +4,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Aashish+(Ash);Builder+%7C+AI+%C2%B7+Web+%C2%B7+Automation;B.Tech+CSE+%40+Rungta;Google+Gemini+Student+Ambassador;Founder+%40+BLFL;Experiment+%3E+Perfection." alt="Typing SVG" />
 </a>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="aash1sh9's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <img src="https://capsule-render.com/api?type=waving&color=0:0d0d0d,50:1a1a1a,100:F97316&height=180&section=header" width="100%"/>
 
 ![B.Tech CSE](https://img.shields.io/badge/B.Tech-CSE%20%7C%20Batch%202025--2029-1a1a1a?style=for-the-badge&color=F97316)
