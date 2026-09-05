@@ -43,7 +43,7 @@
 
 ## 👤 About
 
-I'm a first-year B.Tech CSE student at **Rungta International Skills University, Bhilai**, and outside of coursework I spend most of my time building — mainly AI agents, automation workflows, and full-stack tools that solve real problems instead of staying tutorial projects. I also founded and run **BLFL**, a student community where we learn and build together.
+I'm a 2nd-year B.Tech CSE student at **Rungta International Skills University, Bhilai**, and outside of coursework I spend most of my time building — mainly AI agents, automation workflows, and full-stack tools that solve real problems instead of staying tutorial projects. I also founded and run **BLFL**, a student community where we learn and build together.
 
 <table>
 <tr><td width="30">🚀</td><td><b>Builder</b> — AI · Web · Automation</td></tr>
